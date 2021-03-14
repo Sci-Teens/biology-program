@@ -1,0 +1,5 @@
+nbgrader
+scipy
+pandas
+matplotlib
+numpy
