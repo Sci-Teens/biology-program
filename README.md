@@ -1,6 +1,6 @@
 # SciTeens Online: Learning in Biological Data Science (SOLID)
 
-![SOLID Biology](./solid biology.png)
+![SOLID](/images/solid biology.png)
 
 In this exciting one-week course will learn data science through Python and its application to the COVID-19 pandemic.  You will learn the skills necessary to conduct advanced research, data exploration techniques plotting, statistical testing, and data sorting. There is no charge for the camps, so all you need is a desire to learn to participate! Moreover, you do NOT need to know ANY programming to join us! 
 
